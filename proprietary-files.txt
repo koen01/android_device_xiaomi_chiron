@@ -1,3 +1,4 @@
+#Chiron
 # Audio ACDB
 etc/acdbdata/ChironS/Forte_ChironS_Bluetooth_cal.acdb
 etc/acdbdata/ChironS/Forte_ChironS_Global_cal.acdb
@@ -137,3 +138,8 @@ lib64/libnotifyaudiohal.so
 etc/elliptic_sensor.xml
 etc/sensors/sensor_def_qcomdev.conf
 vendor/lib64/sensors.elliptic.so
+lib/sensors.hal.tof.so
+lib64/sensors.hal.tof.so
+vendor/lib/libsurround_3mic_proc.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
